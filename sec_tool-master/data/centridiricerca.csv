@@ -1,0 +1,18 @@
+id,name,latitude,longitude,num_papers
+1,Gr1(Carminati-Polino-Zanero),45.502533, 9.155232,5
+2,Gr2(Barenghi-Pelosi) DEIB,45.478551, 9.232402,3
+3,Gr3(Lancini-Maggi), 45.477330, 9.225176,2
+4,Gr4(Maiorca-Giacinto),39.217687, 9.115015,3
+5,Gr5(Mutti-Bacis-Paraboschi) SecLab,45.647395, 9.598243,3
+6,Gr6(Martinelli-Saracino),43.716915, 10.398866,5
+7,Gr7(Mercaldo-Santone),43.720230, 10.383275,2
+8,Gr8(Conti-Lain),45.406681, 11.877438,2
+9,Gr9(Biggio-Roli),39.220796, 9.113850,5
+10,Gr10(Armando-Ranise),46.066681, 11.123126,5
+11,Gr11(Calzavara-Rabitti), 45.434540, 12.326315,3
+12,Gr12(Di Vimercati-Foresti-Samarati),45.459973, 9.194620,8
+13,Gr13(Ariu-Corona),39.217158, 9.114972,3
+14,Gr14(Rizos-Mori),43.720628, 10.407392,2
+15,Gr15(Martignoni-Paleari),46.065865, 13.232450,4
+16,Gr16(Roglia-Bruschi),45.459410, 9.193520,2
+17,Gr17(Picco-Mottola),46.066743, 11.123407,3
